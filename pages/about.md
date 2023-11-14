@@ -14,6 +14,8 @@ credits: true
 
 ## About the Collection
 
+We created this site as a school project for our Digital Environemnts and Library Users class at the University of Iowa. Christian Brauns created the CollectionBuilder site. Grace Stephens found, analyzed, and compared existing CollectionBuilder sites. Abby Johnson created the presentation.
+
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
@@ -22,6 +24,8 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+
+Special thanks to the Iowa City Historical Library for helping us with our research. We also thank CollectionBuilder for providing us with an intuitive walkthrough.
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
